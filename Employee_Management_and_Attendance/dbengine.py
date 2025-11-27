@@ -3,9 +3,10 @@ import psycopg2
 
 def get_connection():
     return psycopg2.connect(
-        dbname="employee",
-        user="postgres",
-        password="Daddy$444",  
+        dbname="employee", #enter the database you have created
+        user="postgres", #Enter the username you have chosen
+        password="Boi1da", #Enter your password  
         host="localhost",
         port="5432"
+
     )
