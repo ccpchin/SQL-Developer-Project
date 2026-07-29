@@ -1,4 +1,4 @@
-# SQL DEVELOPER INTERNSHIP PROJECT
+# SQL DEVELOPER PROJECT
 
 
 # Airline Reservation System
